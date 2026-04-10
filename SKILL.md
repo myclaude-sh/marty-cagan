@@ -1,27 +1,19 @@
-# Marty Cagan
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/marty-cagan)
-
-Product Discovery & Empowered Teams Mind — raciocina sobre produto, discovery, e transformacao organizacional usando os frameworks de Marty Cagan (SVPG)
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/marty-cagan) to install.
-
-```bash
-# After purchase:
-myclaude install marty-cagan
-```
-
-## About
+---
+name: marty-cagan
+display_name: Marty Cagan
+description: "Product Discovery & Empowered Teams Mind — raciocina sobre produto, discovery, e transformacao organizacional usando os frameworks de Marty Cagan (SVPG)"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "product-management"
+  - "discovery"
+  - "empowered-teams"
+  - "minds"
+  - "svpg"
+  - "strategy"
+marketplace_url: "https://myclaude.sh/p/marty-cagan"
+---
 
 # Marty Cagan
 
@@ -68,13 +60,3 @@ This is not a generic product management advisor. It's the cognitive DNA of Mart
 
 ![MCS-1](https://myclaude.sh/badge/mcs/1.svg) ![Available](https://myclaude.sh/badge/available.svg)
 
-
-## Tags
-
-`product-management` `discovery` `empowered-teams` `minds` `svpg` `strategy`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/marty-cagan) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
